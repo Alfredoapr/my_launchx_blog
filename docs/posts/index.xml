@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://alfredoapr.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Recuento mi trayectoria en Launch X</title>
+      <link>https://alfredoapr.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://alfredoapr.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>El estar en Launch X, ha sido grandioso, me ha permitido desarrollar la parte de la disciplina, que en un cierto punto perdí durante mi desarrollo en la universidad.
+Desde el Onboarding he aprendido cosas nuevas, desde el manejo de python, con el cual definitivamente no estaba tan familiarizado, pero me permitío entender el uso de los entornos virtuales. El módulo de frontend, me ha permitido rearfirmar conocimientos en el tema de CSS, en especifico en el tema de FlexBox.</description>
+    </item>
+    
+    <item>
       <title>Mis expectativas</title>
       <link>https://alfredoapr.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
